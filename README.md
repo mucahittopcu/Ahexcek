@@ -1,4 +1,6 @@
-# For convert .ui file to .py file.
+# For convert .ui file to .py file
+
+The gui file created in QT Designer is converted to python file
 
 ```sh
 pyuic5 -x draw_gui.ui -o GuiDesign.py
