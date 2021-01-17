@@ -9,7 +9,7 @@ pyuic5 -x draw_gui.ui -o GuiDesign.py
 
 # For executable file
 
-In file of project. I mean open terminal where there is src 
+Open terminal in file of project.I mean where there is src 
 
 1. Test Run
 ```sh
