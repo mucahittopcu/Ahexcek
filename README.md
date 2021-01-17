@@ -1,11 +1,11 @@
-* For convert .ui file to .py file.
+# For convert .ui file to .py file.
 
 ```sh
 pyuic5 -x draw_gui.ui -o GuiDesign.py
 ```
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
 
-* For executable file
+# For executable file
 
 In file of project. I mean open terminal where there is src 
 
