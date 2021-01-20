@@ -19,9 +19,3 @@ fbs run
 ```sh
 fbs freeze
 ```
- 
- 
- ### Sources
- 
- * https://github.com/mherrmann/fbs-tutorial
- * https://www.learnpyqt.com/tutorials/packaging-pyqt5-apps-fbs/
