@@ -1,4 +1,4 @@
-# For convert .ui file to .py file
+### For convert .ui file to .py file
 
 The gui file created in QT Designer is converted to python file
 
@@ -20,3 +20,8 @@ fbs run
 fbs freeze
 ```
  
+ 
+ ### Sources
+ 
+ * https://github.com/mherrmann/fbs-tutorial
+ * https://www.learnpyqt.com/tutorials/packaging-pyqt5-apps-fbs/
